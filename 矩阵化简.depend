@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1729331222 source:c:\users\jimle\desktop\我的c和c++\我的作品\矩阵化简\simple.c
+	"simple.h"
+
+1729146908 c:\users\jimle\desktop\我的c和c++\我的作品\矩阵化简\simple.h
+
+1729408457 source:c:\users\jimle\desktop\我的c和c++\我的作品\矩阵化简\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"simple.h"
+	"transformation.h"
+
+1729331843 c:\users\jimle\desktop\我的c和c++\我的作品\矩阵化简\transformation.h
+
+1729340988 source:c:\users\jimle\desktop\我的c和c++\我的作品\矩阵化简\transformation.c
+	<stdio.h>
+	<windows.h>
+	"simple.h"
+	"transformation.h"
+
